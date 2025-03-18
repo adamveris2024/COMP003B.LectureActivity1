@@ -1,3 +1,7 @@
+/// Author: Adam Verissimo
+/// Course: COMP003B
+/// Faculty: Jonathan Cruz
+/// Purpose: My First Web App
 namespace COMP003B.LectureActivity1
 {
     public class Program
